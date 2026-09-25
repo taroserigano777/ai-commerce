@@ -14,7 +14,7 @@
 | Research: fact check of all 22 sources, best practices, OTel and Ragas facts | ✅ Done. Results are built into the plan. |
 | Build plan | ✅ Done: `docs/PLAN_ai-commerce-build.md` |
 | Step 0: project folder, docs unzipped, `CLAUDE.md`, `.gitignore`, `.gitattributes` | ✅ Done |
-| First Git commit, pushed to GitHub | ✅ Done: **private** repo `https://github.com/taroserigano777/ai-commerce`, branch `main` |
+| First Git commit, pushed to GitHub | ✅ Done: **public** repo `https://github.com/taroserigano777/ai-commerce`, branch `main` |
 | Step 1: fix the handoff docs | ⬜ Next |
 | Steps 2–8: build | ⬜ Not started |
 | Application code | ⬜ None yet |
@@ -91,7 +91,7 @@ ai-commerce/
 
 ## Moving to the Windows laptop
 
-The repo is on GitHub (private, personal account). On Windows, inside WSL:
+The repo is on GitHub (public, personal account). On Windows, inside WSL:
 
 ```bash
 gh auth login        # sign in as taroserigano777
